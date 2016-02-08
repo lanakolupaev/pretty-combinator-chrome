@@ -1,2 +1,8 @@
 # Pretty Y
-A Chorme extension that improves readability of HackerNews
+Chorme extension that improves readability of HackerNews
+
+More breathing space & grid to ease your eyes. 
+
+# License
+MIT 
+
