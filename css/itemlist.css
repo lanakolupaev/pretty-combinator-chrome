@@ -1,0 +1,30 @@
+/* GLOBAL */
+/* content padding */
+.itemlist {
+    width: 100%;
+    padding: 0 16px 0 8px;
+}
+
+/* LIST */
+/* align upvote links */
+.itemlist .athing > td:nth-of-type(1) {
+    vertical-align: middle !important;
+}
+
+/* add padding around upvote links */
+.itemlist .athing .votelinks {
+    padding: 0 8px !important;
+}
+
+/* align rank */
+.itemlist .athing .rank {
+    padding-left: 8px;
+}
+
+/* increase space between items */
+.spacer {
+    height: 16px !important;
+}
+
+
+

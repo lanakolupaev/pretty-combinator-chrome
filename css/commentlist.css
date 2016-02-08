@@ -1,0 +1,21 @@
+/* content padding */
+.itemlist {
+    width: 100%;
+    padding: 0 16px 0 8px;
+}
+
+/* align upvote links */
+.athing .votelinks {
+    padding: 0 10px 0 8px !important;
+}
+
+/* increase space between items */
+.spacer {
+    height: 16px !important;
+}
+
+/* improve readability of the comment text */
+.comment {
+    line-height: 1.5em;
+    text-align: justify;
+}

@@ -1,10 +1,10 @@
 {
   "appName": {
-    "message": "Pretty Hacker News",
+    "message": "Pretty Y",
     "description": "The name of the application"
   },
   "appDescription": {
-    "message": "Improves readability of the HackerNews site",
+    "message": "Improves readability of the HackerNews",
     "description": "The description of the application"
   }
 }

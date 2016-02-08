@@ -1,1 +1,40 @@
-html { background: red;}
+/* content padding */
+table#hnmain > tbody > tr:nth-of-type(3) > td > table {
+    width: 100%;
+    padding: 0 16px 0 8px;
+}
+
+/* align upvote links */
+.athing .votelinks {
+    padding: 0 8px 0 4px !important;
+}
+
+/* ITEM */
+/* emphasize item header */
+.athing > td.title > a {
+    font-weight: bold;
+}
+
+/* improve readability of the item text */
+table#hnmain > tbody > tr:nth-of-type(3) > td > table:first-of-type > tbody > tr:nth-of-type(4) > td {
+    line-height: 1.5em;
+}
+
+
+/* DISCUSSION */
+/* improve readability of the comment text */
+.comment {
+    line-height: 1.5em;
+    text-align: justify;
+}
+
+/* larger font on the reply button */
+.comment .reply u {
+    font-size: 9pt !important;
+}
+
+/* spacing between comments*/
+.comment-tree .athing > td {
+    padding-bottom: 8px;
+}
+
